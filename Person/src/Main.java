@@ -86,7 +86,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Person student = new Student("Aydan Aliyeva", 29, 3042803;
+        Person student = new Student("Aydan Aliyeva", 29, 3042803);
         student.displayInfo();
 
 
